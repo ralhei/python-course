@@ -1,0 +1,8 @@
+
+.rise-enabled #notebook {
+    background-color: #eeeeee;
+}
+
+.reveal .rendered_html code {
+    background-color: #ffffff;
+}
